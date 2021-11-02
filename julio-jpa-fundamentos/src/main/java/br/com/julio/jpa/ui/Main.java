@@ -43,7 +43,7 @@ public class Main {
 				pesquisarPessoaPorNome();
 				break;
 			default:
-				System.out.println(" ** Opção inválida! **");
+				System.out.println(" ** Você saiu do Sistema! **");
 				break;
 			}
 
